@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <div align=center>
 <!--소개-->
 
-## Introduction :raised_hands:
+## :raised_hands: Introduction
 Hi😎
 <br/>
 <br/>
  
  <!--기술스택-->
-  ## Skill :four_leaf_clover:
+  ## :four_leaf_clover: Skill
 
   <!--프론트-->
   <img src="https://img.shields.io/badge/Kotlin-61DAFB?style=flat&logo=Kotlin&logoColor=white"/>
@@ -42,7 +42,7 @@ Hi😎
 
  <br/>
  
- ## Problem Solving :muscle:
+ ## :muscle: Problem Solving
  
  </a>
  
