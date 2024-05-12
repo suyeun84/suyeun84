@@ -47,5 +47,7 @@ Hi😎
  </a>
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kelsey6225)](https://solved.ac/kelsey6225)<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyeun84&show_icons=true&bg_color=00000000)
  
 </div>
