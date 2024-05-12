@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 
 ## Introduction :raised_hands:
 Hi😎
-<br/><br/>
- 
+<br/>
  
  <!--기술스택-->
   ## Skill :four_leaf_clover:
@@ -45,6 +44,6 @@ Hi😎
  ## Problem Solving :muscle: 
  </a>
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=suyeun84)](https://solved.ac/kelsey6225)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kelsey6225)](https://solved.ac/kelsey6225)<br/>
  
 </div>
