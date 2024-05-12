@@ -1,6 +1,8 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SUYEON's github%20render&fontSize=90)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=suyeun84)](https://solved.ac/suyeun84)
 <!--
 **suyeun84/suyeun84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
