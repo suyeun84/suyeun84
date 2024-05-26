@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 ## :raised_hands: Introduction
 Hi😎
+I'm majoring Computer Science Engineering in Konkuk Univ. Since 2020
 <br/>
 <br/>
  
