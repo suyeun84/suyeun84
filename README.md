@@ -17,37 +17,28 @@ Here are some ideas to get you started:
 
 <div align=center>
 <!--소개-->
-
-## :raised_hands: Introduction
 Hi😎
 <br/>
 I'm majoring Computer Science Engineering in Konkuk Univ. Since 2020
 <br/>
 <br/>
- 
- <!--기술스택-->
-  ## :four_leaf_clover: Skill
 
-  <!--프론트-->
-  <img src="https://img.shields.io/badge/Kotlin-61DAFB?style=flat&logo=Kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-764ABC?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-CC6699?style=flat&logo=Java&logoColor=white"/>
-   <br/>
-  <!--백-->
-   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+ <h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Dart-61DAFB?style=flat-square&logo=Dart&logoColor=white"/>
   <br/>
-  <!--언어 및 툴 -->
-   <img src="https://img.shields.io/badge/html5-007396?style=flat&logo=HTML5&logoColor=white"/>
-   <img src="https://img.shields.io/badge/css-ff6347?style=flat&logo=CSS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-<br/><br/>
-
- ## :muscle: Problem Solving
- 
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E">
+  <br/>
+  <br/>
  </a>
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kelsey6225)](https://solved.ac/kelsey6225)<br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyeun84&show_icons=true&bg_color=00000000)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyeun84&show_icons=true&bg_color=00000000) -->
  
 </div>
