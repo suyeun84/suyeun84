@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--소개-->
 Hi😎
 <br/>
-I'm majoring Computer Science Engineering in Konkuk Univ. Since 2020
+I'm majoring Computer Science Engineering. Since 2020
 <br/>
 <br/>
 
